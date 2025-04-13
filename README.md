@@ -72,46 +72,7 @@ After registration, users are prompted to verify their email address to activate
 
 
 ## 📁 Folder Structure
-Online-Store
-├── node_modules
-├── public
-├── src
-│   ├── assets
-│   ├── Features
-│   │   ├── Auth
-│   │   ├── CatagoryPopup
-│   │   ├── Categories
-│   │   ├── CategoryFilter
-│   │   ├── Footer
-│   │   ├── NavBar
-│   │   ├── PreviousOrders
-│   │   ├── ProductList
-│   │   └── ProductView
-│   ├── Pages
-│   │   ├── Auth
-│   │   │   ├── SignInPage.jsx
-│   │   │   ├── SignUpPage.jsx
-│   │   │   └── Verify.jsx
-│   │   ├── Payments
-│   │   │   └── CheakOutPage.jsx
-│   │   ├── CartPage.jsx
-│   │   ├── HomePage.jsx
-│   │   ├── LandingPage.jsx
-│   │   ├── PreviousOrdersPage.jsx
-│   │   ├── PrevOderViewPage.jsx
-│   │   ├── ProductViewPage.jsx
-│   │   └── ProfilePage.jsx
-│   ├── App.css
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package-lock.json
-├── package.json
-├── README.md
-└── vite.config.js
 
-![image](https://github.com/user-attachments/assets/da35e36b-7d02-4f3d-aa0d-1d9c6a4568b3)
+![image](https://github.com/user-attachments/assets/cbcf07a2-983b-40fe-bda7-d0fddf0c6984)
+
 
