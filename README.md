@@ -113,4 +113,5 @@ Online-Store
 ├── README.md
 └── vite.config.js
 
+![image](https://github.com/user-attachments/assets/da35e36b-7d02-4f3d-aa0d-1d9c6a4568b3)
 
