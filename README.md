@@ -75,4 +75,19 @@ After registration, users are prompted to verify their email address to activate
 
 ![image](https://github.com/user-attachments/assets/cbcf07a2-983b-40fe-bda7-d0fddf0c6984)
 
+🧑‍💻 How to Run Locally
+
+# Clone the repository
+git clone https://github.com/B1gSmok/React-ecommerce.git
+
+# Navigate into the project directory
+cd React-ecommerce
+
+# Install all dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+
 
