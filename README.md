@@ -48,28 +48,69 @@ Final step where users provide their address, choose a payment method, and confi
 Users can pin their exact location using an interactive map for accurate delivery.
 
 ![image](https://github.com/user-attachments/assets/25d06e3e-cd48-45fc-8c0e-dbc0643f52b4)
+
+👤 Profile Page
+
+Users can view and manage their personal details including name, email, and address. This page also allows updates to profile information, enhancing user experience and personalization.
+
+![image](https://github.com/user-attachments/assets/bdc19b67-68d7-4c30-85fc-c2bf9863d156)
+
 📝 Sign Up Page
 
 New users can create an account by providing their name, email, and password. Form includes validation and error handling.
-
-![image](https://github.com/user-attachments/assets/bdc19b67-68d7-4c30-85fc-c2bf9863d156)
+![image](https://github.com/user-attachments/assets/79a2c606-51e7-4dbe-97f2-a78ade5ca5cb)
 🔑 Sign In Page
 
 Existing users can securely log in using their credentials. Includes “Forgot Password” link and validation feedback.
 
-![image](https://github.com/user-attachments/assets/79a2c606-51e7-4dbe-97f2-a78ade5ca5cb)
-
+![image](https://github.com/user-attachments/assets/b81ca66f-3321-4908-b407-fe007b39ef4f)
 📧 Email Verification Page
 
 After registration, users are prompted to verify their email address to activate their account. This ensures security and prevents fake sign-ups.
-![image](https://github.com/user-attachments/assets/b81ca66f-3321-4908-b407-fe007b39ef4f)
-
 ![image](https://github.com/user-attachments/assets/e39156e0-78f5-4246-a228-8816dd615641)
 
 
-## 🔗 Live Demo
-
-[👉 Click here to view the live demo](https://your-live-site-link.com)
 
 ## 📁 Folder Structure
+Online-Store
+├── node_modules
+├── public
+├── src
+│   ├── assets
+│   ├── Features
+│   │   ├── Auth
+│   │   ├── CatagoryPopup
+│   │   ├── Categories
+│   │   ├── CategoryFilter
+│   │   ├── Footer
+│   │   ├── NavBar
+│   │   ├── PreviousOrders
+│   │   ├── ProductList
+│   │   └── ProductView
+│   ├── Pages
+│   │   ├── Auth
+│   │   │   ├── SignInPage.jsx
+│   │   │   ├── SignUpPage.jsx
+│   │   │   └── Verify.jsx
+│   │   ├── Payments
+│   │   │   └── CheakOutPage.jsx
+│   │   ├── CartPage.jsx
+│   │   ├── HomePage.jsx
+│   │   ├── LandingPage.jsx
+│   │   ├── PreviousOrdersPage.jsx
+│   │   ├── PrevOderViewPage.jsx
+│   │   ├── ProductViewPage.jsx
+│   │   └── ProfilePage.jsx
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+└── vite.config.js
+
 
